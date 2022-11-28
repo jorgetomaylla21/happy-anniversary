@@ -1,0 +1,12 @@
+.poem {
+    
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display:flex;
+    background-color: rgba(0,0,0,0.5);
+}
+.child {
+    flex: 1;
+}
